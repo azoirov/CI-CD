@@ -1,1 +1,1 @@
-console.log(true);
+const fullName: string = "Nimadir";
