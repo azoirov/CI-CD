@@ -1,2 +1,2 @@
 const fullName: string = "Nimadir";
-console.log(fullName);
+console.log(fullName, true);
